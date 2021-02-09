@@ -8,6 +8,12 @@ TextureImporter:
   - first:
       213: 2601514537129177563
     second: walk_down_1
+  - first:
+      213: 7477122891463941517
+    second: walk_down_0
+  - first:
+      213: 8179152591726429020
+    second: walk_down_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -109,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8391b4ad357c647d0800000000000000
-      internalID: -2934438944226731720
+      spriteID: d8d56af77a314c760800000000000000
+      internalID: 7477122891463941517
       vertices: []
       indices: 
       edges: []
@@ -130,8 +136,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd1799720bf6a1420800000000000000
-      internalID: 2601514537129177563
+      spriteID: c53c19972ff228170800000000000000
+      internalID: 8179152591726429020
       vertices: []
       indices: 
       edges: []
