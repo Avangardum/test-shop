@@ -1,0 +1,2374 @@
+fileFormatVersion: 2
+guid: e16e7114d48118f449d061b5ffff2e5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6159445990178690477
+    second: Tileset_48x48_9_0
+  - first:
+      213: -6841306890972147183
+    second: Tileset_48x48_9_1
+  - first:
+      213: 579320740172540525
+    second: Tileset_48x48_9_2
+  - first:
+      213: -3882694025500667133
+    second: Tileset_48x48_9_3
+  - first:
+      213: -5125595056261308982
+    second: Tileset_48x48_9_4
+  - first:
+      213: 7676211724736995623
+    second: Tileset_48x48_9_5
+  - first:
+      213: -8349053636776221532
+    second: Tileset_48x48_9_6
+  - first:
+      213: 1695025562279414766
+    second: Tileset_48x48_9_7
+  - first:
+      213: 2328504432325343469
+    second: Tileset_48x48_9_8
+  - first:
+      213: 7291339814938369676
+    second: Tileset_48x48_9_9
+  - first:
+      213: 2364682078473694042
+    second: Tileset_48x48_9_10
+  - first:
+      213: 5557698376577246884
+    second: Tileset_48x48_9_11
+  - first:
+      213: -7493256941531896769
+    second: Tileset_48x48_9_12
+  - first:
+      213: 4098173985672012713
+    second: Tileset_48x48_9_13
+  - first:
+      213: 5339645866647889534
+    second: Tileset_48x48_9_14
+  - first:
+      213: 8746461199511011818
+    second: Tileset_48x48_9_15
+  - first:
+      213: 2555609713273986283
+    second: Tileset_48x48_9_16
+  - first:
+      213: -8974229465919341509
+    second: Tileset_48x48_9_17
+  - first:
+      213: 4893117672380737175
+    second: Tileset_48x48_9_18
+  - first:
+      213: -6477393566211564936
+    second: Tileset_48x48_9_19
+  - first:
+      213: 8504698416146418681
+    second: Tileset_48x48_9_20
+  - first:
+      213: -5528538941075223792
+    second: Tileset_48x48_9_21
+  - first:
+      213: 2541467720388782356
+    second: Tileset_48x48_9_22
+  - first:
+      213: -7483192833048172157
+    second: Tileset_48x48_9_23
+  - first:
+      213: 8533314504382448126
+    second: Tileset_48x48_9_24
+  - first:
+      213: -7086817198857480624
+    second: Tileset_48x48_9_25
+  - first:
+      213: -4016814770267342638
+    second: Tileset_48x48_9_26
+  - first:
+      213: -268138837290107218
+    second: Tileset_48x48_9_27
+  - first:
+      213: -7274308012373748820
+    second: Tileset_48x48_9_28
+  - first:
+      213: -2153160781601657253
+    second: Tileset_48x48_9_29
+  - first:
+      213: 4249485281357859883
+    second: Tileset_48x48_9_30
+  - first:
+      213: -6803326846327109648
+    second: Tileset_48x48_9_31
+  - first:
+      213: 2155579371066094082
+    second: Tileset_48x48_9_32
+  - first:
+      213: 6528869568370975953
+    second: Tileset_48x48_9_33
+  - first:
+      213: -6097157479205118284
+    second: Tileset_48x48_9_34
+  - first:
+      213: -3848963807025166205
+    second: Tileset_48x48_9_35
+  - first:
+      213: 8261051345167528303
+    second: Tileset_48x48_9_36
+  - first:
+      213: -7684699194458607310
+    second: Tileset_48x48_9_37
+  - first:
+      213: -817838712510484573
+    second: Tileset_48x48_9_38
+  - first:
+      213: 5325500797346377961
+    second: Tileset_48x48_9_39
+  - first:
+      213: -9007399340623440040
+    second: Tileset_48x48_9_40
+  - first:
+      213: -3141968143868577972
+    second: Tileset_48x48_9_41
+  - first:
+      213: 1536449183575442416
+    second: Tileset_48x48_9_42
+  - first:
+      213: -1582277070645473272
+    second: Tileset_48x48_9_43
+  - first:
+      213: -5915064915126805450
+    second: Tileset_48x48_9_44
+  - first:
+      213: 947432899295359141
+    second: Tileset_48x48_9_45
+  - first:
+      213: -1884346609132597260
+    second: Tileset_48x48_9_46
+  - first:
+      213: 6104462120323742514
+    second: Tileset_48x48_9_47
+  - first:
+      213: -7693369971967714916
+    second: Tileset_48x48_9_48
+  - first:
+      213: -6188155058815589314
+    second: Tileset_48x48_9_49
+  - first:
+      213: 5833458768015316119
+    second: Tileset_48x48_9_50
+  - first:
+      213: 8325215940982583829
+    second: Tileset_48x48_9_51
+  - first:
+      213: 7649229439835088440
+    second: Tileset_48x48_9_52
+  - first:
+      213: 7891580430159171323
+    second: Tileset_48x48_9_53
+  - first:
+      213: 3301368796740932615
+    second: Tileset_48x48_9_54
+  - first:
+      213: -7611489662320612118
+    second: Tileset_48x48_9_55
+  - first:
+      213: 4117317604095939904
+    second: Tileset_48x48_9_56
+  - first:
+      213: -6662027524158779805
+    second: Tileset_48x48_9_57
+  - first:
+      213: -5986560911125240997
+    second: Tileset_48x48_9_58
+  - first:
+      213: 8867141337877707618
+    second: Tileset_48x48_9_59
+  - first:
+      213: -8033573218625303010
+    second: Tileset_48x48_9_60
+  - first:
+      213: -4300969342421923175
+    second: Tileset_48x48_9_61
+  - first:
+      213: 5132715321896541411
+    second: Tileset_48x48_9_62
+  - first:
+      213: -6017078489553180245
+    second: Tileset_48x48_9_63
+  - first:
+      213: 7833932291439152156
+    second: Tileset_48x48_9_64
+  - first:
+      213: 5730670884944872622
+    second: Tileset_48x48_9_65
+  - first:
+      213: -4084179707066316885
+    second: Tileset_48x48_9_66
+  - first:
+      213: 361396312756327321
+    second: Tileset_48x48_9_67
+  - first:
+      213: 5346838612041753025
+    second: Tileset_48x48_9_68
+  - first:
+      213: -1584867889615142061
+    second: Tileset_48x48_9_69
+  - first:
+      213: 9067971898877865557
+    second: Tileset_48x48_9_70
+  - first:
+      213: -7597330281979828558
+    second: Tileset_48x48_9_71
+  - first:
+      213: 492375698247082444
+    second: Tileset_48x48_9_72
+  - first:
+      213: -1068783923069173952
+    second: Tileset_48x48_9_73
+  - first:
+      213: 747872233158989438
+    second: Tileset_48x48_9_74
+  - first:
+      213: -4587025332519602343
+    second: Tileset_48x48_9_75
+  - first:
+      213: 3183071376525515726
+    second: Tileset_48x48_9_76
+  - first:
+      213: -6079971276800700759
+    second: Tileset_48x48_9_77
+  - first:
+      213: 8723414013601935262
+    second: Tileset_48x48_9_78
+  - first:
+      213: 4502536187345575469
+    second: Tileset_48x48_9_79
+  - first:
+      213: 5374394681925650272
+    second: Tileset_48x48_9_80
+  - first:
+      213: 3776948747696882546
+    second: Tileset_48x48_9_81
+  - first:
+      213: 4149498638662763014
+    second: Tileset_48x48_9_82
+  - first:
+      213: -4549587344559884716
+    second: Tileset_48x48_9_83
+  - first:
+      213: -841967101590346074
+    second: Wooden Interior_0
+  - first:
+      213: 5464740369850038089
+    second: Wooden Interior_1
+  - first:
+      213: 2228877020697542533
+    second: Wooden Interior_2
+  - first:
+      213: -8046580040218723889
+    second: Wooden Interior_3
+  - first:
+      213: 5713765013849324131
+    second: Wooden Interior_4
+  - first:
+      213: -2232437727202747986
+    second: Wooden Interior_5
+  - first:
+      213: -2165829815306016803
+    second: Wooden Interior_6
+  - first:
+      213: 866457168252785315
+    second: Wooden Interior_7
+  - first:
+      213: 6469628868882387323
+    second: Wooden Interior_8
+  - first:
+      213: 6908208085021174149
+    second: Wooden Interior_9
+  - first:
+      213: -2688035266437389810
+    second: Wooden Interior_10
+  - first:
+      213: 4654271212845465281
+    second: Wooden Interior_11
+  - first:
+      213: -8273623576308232563
+    second: Wooden Interior_12
+  - first:
+      213: -7394981370037919546
+    second: Wooden Interior_13
+  - first:
+      213: -8263617182917046401
+    second: Wooden Interior_14
+  - first:
+      213: -2680782860941496259
+    second: Wooden Interior_15
+  - first:
+      213: 8732949348191043474
+    second: Wooden Interior_16
+  - first:
+      213: -4377015564218691855
+    second: Wooden Interior_17
+  - first:
+      213: -5553799482519528451
+    second: Wooden Interior_18
+  - first:
+      213: -2098852452393495153
+    second: Wooden Interior_19
+  - first:
+      213: -5646560906167935864
+    second: Wooden Interior_20
+  - first:
+      213: 562464686832569946
+    second: Wooden Interior_21
+  - first:
+      213: -5895082043773918471
+    second: Wooden Interior_22
+  - first:
+      213: 7726416401038515135
+    second: Wooden Interior_23
+  - first:
+      213: 7412574662939280520
+    second: Wooden Interior_24
+  - first:
+      213: -8982942357668711363
+    second: Wooden Interior_25
+  - first:
+      213: -1015143145564201018
+    second: Wooden Interior_26
+  - first:
+      213: -5784098911198324204
+    second: Wooden Interior_27
+  - first:
+      213: 7002051292244235878
+    second: Wooden Interior_28
+  - first:
+      213: 3389521276742977920
+    second: Wooden Interior_29
+  - first:
+      213: 7246878938289874168
+    second: Wooden Interior_30
+  - first:
+      213: 4719894421673808873
+    second: Wooden Interior_31
+  - first:
+      213: -7668252558012425304
+    second: Wooden Interior_32
+  - first:
+      213: 1534468492570672752
+    second: Wooden Interior_33
+  - first:
+      213: -4126083224535966973
+    second: Wooden Interior_34
+  - first:
+      213: 4147819133692597963
+    second: Wooden Interior_35
+  - first:
+      213: -1531243822987215820
+    second: Wooden Interior_36
+  - first:
+      213: -6994055683278401533
+    second: Wooden Interior_37
+  - first:
+      213: -9037706853814018024
+    second: Wooden Interior_38
+  - first:
+      213: 7229160848927265988
+    second: Wooden Interior_39
+  - first:
+      213: 7555046337724194379
+    second: Wooden Interior_40
+  - first:
+      213: -2002959769689264899
+    second: Wooden Interior_41
+  - first:
+      213: 5791608608317218550
+    second: Wooden Interior_42
+  - first:
+      213: 6877841993905691374
+    second: Wooden Interior_43
+  - first:
+      213: -5891576554980764595
+    second: Wooden Interior_44
+  - first:
+      213: -1154639633359685983
+    second: Wooden Interior_45
+  - first:
+      213: 1805478115393197770
+    second: Wooden Interior_46
+  - first:
+      213: 3232433179845006465
+    second: Wooden Interior_47
+  - first:
+      213: 5547287674458955924
+    second: Wooden Interior_48
+  - first:
+      213: -7980585443421001904
+    second: Wooden Interior_49
+  - first:
+      213: 2461586443226128597
+    second: Wooden Interior_50
+  - first:
+      213: 6166983804866575910
+    second: Wooden Interior_51
+  - first:
+      213: 3034962526257765463
+    second: Wooden Interior_52
+  - first:
+      213: 3044248174338584396
+    second: Wooden Interior_53
+  - first:
+      213: 7883037935373131180
+    second: Wooden Interior_54
+  - first:
+      213: -4806169568448600403
+    second: Wooden Interior_55
+  - first:
+      213: -7462839333549006764
+    second: Wooden Interior_56
+  - first:
+      213: 4801741936609924050
+    second: Wooden Interior_57
+  - first:
+      213: 347842442304932690
+    second: Wooden Interior_58
+  - first:
+      213: 6849565010337798952
+    second: Wooden Interior_59
+  - first:
+      213: -3744167202906660425
+    second: Wooden Interior_60
+  - first:
+      213: 2480773831472299402
+    second: Wooden Interior_61
+  - first:
+      213: -1677685541100547792
+    second: Wooden Interior_62
+  - first:
+      213: 3966068533104986296
+    second: Wooden Interior_63
+  - first:
+      213: 6287752173820568818
+    second: Wooden Interior_64
+  - first:
+      213: 4119862350978575103
+    second: Wooden Interior_65
+  - first:
+      213: -8293723170716126950
+    second: Wooden Interior_66
+  - first:
+      213: 934403776973478820
+    second: Wooden Interior_67
+  - first:
+      213: -2480899786861644642
+    second: Wooden Interior_68
+  - first:
+      213: 3777328227704755087
+    second: Wooden Interior_69
+  - first:
+      213: -146110862950220275
+    second: Wooden Interior_70
+  - first:
+      213: -6952028824882191298
+    second: Wooden Interior_71
+  - first:
+      213: 4323312442249532879
+    second: Wooden Interior_72
+  - first:
+      213: 235161976663549516
+    second: Wooden Interior_73
+  - first:
+      213: 8491403975418302454
+    second: Wooden Interior_74
+  - first:
+      213: -2218941222293312636
+    second: Wooden Interior_75
+  - first:
+      213: 5281104738210191136
+    second: Wooden Interior_76
+  - first:
+      213: -5168544659439457032
+    second: Wooden Interior_77
+  - first:
+      213: 8812510615270574819
+    second: Wooden Interior_78
+  - first:
+      213: -6420077106136736539
+    second: Wooden Interior_79
+  - first:
+      213: 572440445740610961
+    second: Wooden Interior_80
+  - first:
+      213: -7111305061254745598
+    second: Wooden Interior_81
+  - first:
+      213: 1148976683904528883
+    second: Wooden Interior_82
+  - first:
+      213: 6478028759646389379
+    second: Wooden Interior_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wooden Interior_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6642dc16bb054f0800000000000000
+      internalID: -841967101590346074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f5a6b968a6db40800000000000000
+      internalID: 5464740369850038089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f35ba57df8eee10800000000000000
+      internalID: 2228877020697542533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9b306061ec45090800000000000000
+      internalID: -8046580040218723889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a3b8cd10f5b4f40800000000000000
+      internalID: 5713765013849324131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea956ee07b9c401e0800000000000000
+      internalID: -2232437727202747986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd72cbe024d61f1e0800000000000000
+      internalID: -2165829815306016803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a25cce2436460c00800000000000000
+      internalID: 866457168252785315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71d85ebd2db8c950800000000000000
+      internalID: 6469628868882387323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5892b2ee6a2eedf50800000000000000
+      internalID: 6908208085021174149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e640ca2e22bad0800000000000000
+      internalID: -2688035266437389810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cefaf9320b479040800000000000000
+      internalID: 4654271212845465281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec9d0613f2e2d80800000000000000
+      internalID: -8273623576308232563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0224ecf9fbf5990800000000000000
+      internalID: -7394981370037919546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f4a6464fbb15d80800000000000000
+      internalID: -8263617182917046401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3070adf032fbcad0800000000000000
+      internalID: -2680782860941496259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff76cb92ba13970800000000000000
+      internalID: 8732949348191043474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8366e887b143c0800000000000000
+      internalID: -4377015564218691855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbdca2cbc0fce2b0800000000000000
+      internalID: -5553799482519528451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85d02390d06fd2e0800000000000000
+      internalID: -2098852452393495153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9049c5c263a1b0800000000000000
+      internalID: -5646560906167935864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4b5117a64ec700800000000000000
+      internalID: 562464686832569946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2621b5d16703ea0800000000000000
+      internalID: -5895082043773918471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb17aac7ceb93b60800000000000000
+      internalID: 7726416401038515135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848e87e161ced660800000000000000
+      internalID: 7412574662939280520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34b855f48d265380800000000000000
+      internalID: -8982942357668711363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf197400bc79e1f0800000000000000
+      internalID: -1015143145564201018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41adc4c8fa0cabfa0800000000000000
+      internalID: -5784098911198324204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66658454d884c2160800000000000000
+      internalID: 7002051292244235878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c4ea84aff90f20800000000000000
+      internalID: 3389521276742977920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4270faff5129460800000000000000
+      internalID: 7246878938289874168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3173d28fe608140800000000000000
+      internalID: 4719894421673808873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab50b73de4e49590800000000000000
+      internalID: -7668252558012425304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e34bac6f68b4510800000000000000
+      internalID: 1534468492570672752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd5df0b253db6c0800000000000000
+      internalID: -4126083224535966973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d058a683009930800000000000000
+      internalID: 4147819133692597963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf55a1bddefbae0800000000000000
+      internalID: -1531243822987215820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30093e2896f10fe90800000000000000
+      internalID: -6994055683278401533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106d42108d939280800000000000000
+      internalID: -9037706853814018024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c498788d73235460800000000000000
+      internalID: 7229160848927265988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e9aa5ad9ae8d860800000000000000
+      internalID: 7555046337724194379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce54c93be0434e0800000000000000
+      internalID: -2002959769689264899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe97d0185def5050800000000000000
+      internalID: 5791608608317218550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea53046ad0037f50800000000000000
+      internalID: 6877841993905691374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d441a51965aec3ea0800000000000000
+      internalID: -5891576554980764595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6320afe55e9ffe0800000000000000
+      internalID: -1154639633359685983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d0c5b7c85e0910800000000000000
+      internalID: 1805478115393197770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18419d4d9d8ebdc20800000000000000
+      internalID: 3232433179845006465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4906707cfbcebfc40800000000000000
+      internalID: 5547287674458955924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ec3972d34f3190800000000000000
+      internalID: -7980585443421001904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0296cf3df492220800000000000000
+      internalID: 2461586443226128597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb8a0b817859550800000000000000
+      internalID: 6166983804866575910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c5734765a5e1a20800000000000000
+      internalID: 3034962526257765463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f259fd5975f3a20800000000000000
+      internalID: 3044248174338584396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad18d07c3d266d60800000000000000
+      internalID: 7883037935373131180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6245edd3e0d4db0800000000000000
+      internalID: -4806169568448600403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450affb7a2bae6890800000000000000
+      internalID: -7462839333549006764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31bb2c9d633a240800000000000000
+      internalID: 4801741936609924050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc36bbbd8c3d400800000000000000
+      internalID: 347842442304932690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b112b161b8e0f50800000000000000
+      internalID: 6849565010337798952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a41334cb0a0cc0800000000000000
+      internalID: -3744167202906660425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dbdf0f7aa7d6220800000000000000
+      internalID: 2480773831472299402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03194ed93e9a7b8e0800000000000000
+      internalID: -1677685541100547792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c396515e4a0730800000000000000
+      internalID: 3966068533104986296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4e344c945924750800000000000000
+      internalID: 6287752173820568818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6591faf0bc2930800000000000000
+      internalID: 4119862350978575103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f900e7b6c6ec80800000000000000
+      internalID: -8293723170716126950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9943d84ba7fc00800000000000000
+      internalID: 934403776973478820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f4c8c9c2129dd0800000000000000
+      internalID: -2480899786861644642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83d56c8204cb6430800000000000000
+      internalID: 3777328227704755087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb60cb1f8e8fdf0800000000000000
+      internalID: -146110862950220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ee900e9e658f90800000000000000
+      internalID: -6952028824882191298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55f45a2cd7ffb30800000000000000
+      internalID: 4323312442249532879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a5b36296734300800000000000000
+      internalID: 235161976663549516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc52f1de687d570800000000000000
+      internalID: 8491403975418302454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b6cbbf6bcb431e0800000000000000
+      internalID: -2218941222293312636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02796a667c04a4940800000000000000
+      internalID: 5281104738210191136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6e503404a548b0800000000000000
+      internalID: -5168544659439457032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eacf82c6b35c4a70800000000000000
+      internalID: 8812510615270574819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec1a1213ed47e6a0800000000000000
+      internalID: -6420077106136736539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957f6f6d87b1f700800000000000000
+      internalID: 572440445740610961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202397e59b19f4d90800000000000000
+      internalID: -7111305061254745598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f55bd43cf1ff00800000000000000
+      internalID: 1148976683904528883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Interior_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384cc77b5d496e950800000000000000
+      internalID: 6478028759646389379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

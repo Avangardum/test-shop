@@ -47,6 +47,15 @@ TagManager:
   - name: Wall
     uniqueID: 2801902979
     locked: 0
+  - name: Props
+    uniqueID: 1739804915
+    locked: 0
+  - name: NPC
+    uniqueID: 4061500703
+    locked: 0
+  - name: Stall
+    uniqueID: 594482135
+    locked: 0
   - name: Player
     uniqueID: 1510220051
     locked: 0
