@@ -36,6 +36,7 @@ public class PlayerAnimator : MonoBehaviour
         _animator.speed = animationSpeed;
         _direction = _player.Direction;
         _isWalking = _player.IsWalking;
+        ChangeAnimation();
     }
 
     private void OnEnable()
