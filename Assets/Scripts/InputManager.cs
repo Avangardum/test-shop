@@ -10,6 +10,7 @@ public class InputManager : MonoBehaviour
     private Button _right;
     private Button _down;
     private Button _use;
+    private Button _inventory;
 
     public struct Button
     {
@@ -28,6 +29,8 @@ public class InputManager : MonoBehaviour
 
     public Button Use => _use;
 
+    public Button Inventory => _inventory;
+
     private void Update()
     {
         SetButtonData(ref _left, KeyCode.LeftArrow);
@@ -35,6 +38,7 @@ public class InputManager : MonoBehaviour
         SetButtonData(ref _down, KeyCode.DownArrow);
         SetButtonData(ref _up, KeyCode.UpArrow);
         SetButtonData(ref _use, KeyCode.Space);
+        SetButtonData(ref _inventory, KeyCode.I);
     }
 
     private void SetButtonData(ref Button button, KeyCode keyCode)

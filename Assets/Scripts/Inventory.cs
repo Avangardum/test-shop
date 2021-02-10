@@ -5,10 +5,12 @@ using UnityEngine;
 
 public class Inventory : MonoBehaviour, IEnumerable<Item>
 {
+    public event Action InventoryChanged;
+    
     public int Size { get; set; } = 3;
     public bool Full => _items.Count >= Size;
 
-    private List<Item> _items;
+    private List<Item> _items = new List<Item>();
 
     public IEnumerator<Item> GetEnumerator()
     {
@@ -22,12 +24,12 @@ public class Inventory : MonoBehaviour, IEnumerable<Item>
 
     public Item this[int i] => _items[i];
     
-    private void Awake()
+    public bool Remove(Item item)
     {
-        _items = new List<Item>();
+        bool result = _items.Remove(item);
+        InventoryChanged?.Invoke();
+        return result;
     }
-
-    public bool Remove(Item item) => _items.Remove(item);
 
     public void Add(Item item)
     {
@@ -36,5 +38,6 @@ public class Inventory : MonoBehaviour, IEnumerable<Item>
             throw new Exception($"Tried to add {item.Name} to the inventory of {gameObject.name}, while it's full");
         }
         _items.Add(item);
+        InventoryChanged?.Invoke();
     }
 }
