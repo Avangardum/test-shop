@@ -7,21 +7,37 @@ using UnityEngine.Serialization;
 [RequireComponent(typeof(Rigidbody2D))]
 public class Player : MonoBehaviour
 {
-    public event Action<Direction> DirectionChanged; 
+    public event Action<Direction> DirectionChanged;
+    public event Action<bool> IsWalkingChanged;
     
     [SerializeField] private InputManager inputManager;
     [SerializeField] private float speed = 1;
 
     private Rigidbody2D _rigidbody2D;
     private Direction _direction = Direction.Right;
+    private bool _isWalking;
 
     public Direction Direction
     {
         get => _direction;
         private set
         {
+            bool changed = _direction != value;
             _direction = value;
-            DirectionChanged?.Invoke(value);
+            if (changed)
+                DirectionChanged?.Invoke(value);
+        }
+    }
+
+    public bool IsWalking
+    {
+        get => _isWalking;
+        private set
+        {
+            bool changed = _isWalking != value;
+            _isWalking = value; 
+            if (changed)
+                IsWalkingChanged.Invoke(value);
         }
     }
 
@@ -52,5 +68,6 @@ public class Player : MonoBehaviour
         {
             Direction = velocity.y > 0 ? Direction.Up : Direction.Down;
         }
+        IsWalking = velocity != Vector2.zero;
     }
 }
