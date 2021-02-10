@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -9,14 +10,20 @@ public class Player : MonoBehaviour
 {
     public event Action<Direction> DirectionChanged;
     public event Action<bool> IsWalkingChanged;
+
+    public event Action<Clothing> ClothingChanged;
     
     [SerializeField] private InputManager inputManager;
+    [SerializeField] private ItemFactory itemFactory;
     [SerializeField] private float speed = 1;
 
     private Rigidbody2D _rigidbody2D;
+    private Inventory _inventory;
+
+    private Clothing _clothing;
     private Direction _direction = Direction.Right;
     private bool _isWalking;
-
+    
     public Direction Direction
     {
         get => _direction;
@@ -37,13 +44,30 @@ public class Player : MonoBehaviour
             bool changed = _isWalking != value;
             _isWalking = value; 
             if (changed)
-                IsWalkingChanged.Invoke(value);
+                IsWalkingChanged?.Invoke(value);
+        }
+    }
+
+    public Clothing Clothing
+    {
+        get => _clothing;
+        set
+        {
+            bool changed = _clothing != value;
+            _clothing = value;
+            if (changed)
+            {
+                ClothingChanged?.Invoke(value);
+            }
         }
     }
 
     private void Awake()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
+        _inventory = GetComponent<Inventory>();
+
+        Clothing = itemFactory.CreateBlueSuit();
     }
 
     private void FixedUpdate()
@@ -69,5 +93,17 @@ public class Player : MonoBehaviour
             Direction = velocity.y > 0 ? Direction.Up : Direction.Down;
         }
         IsWalking = velocity != Vector2.zero;
+    }
+
+    public void EquipClothing(Clothing newClothing)
+    {
+        if (!_inventory.Contains(newClothing))
+        {
+            throw new ArgumentException($"Tried to equip {_clothing.Name}, while it's not in player's inventory");
+        }
+        Clothing oldClothing = Clothing;
+        Clothing = newClothing;
+        _inventory.Remove(newClothing);
+        _inventory.Add(oldClothing);
     }
 }

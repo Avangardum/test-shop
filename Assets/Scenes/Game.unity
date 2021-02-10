@@ -1271,6 +1271,52 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1348463093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1348463095}
+  - component: {fileID: 1348463094}
+  m_Layer: 0
+  m_Name: ItemFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1348463094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348463093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 649178b9612e4aa4ea091d24b09d0225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blueSuitSprite: {fileID: 21300000, guid: 1e9424a419ee9dc4692ffe7d11291077, type: 3}
+  greenSuitSprite: {fileID: 21300000, guid: 1cfa80fbc09f8b84ea609afb8a2703bd, type: 3}
+  redSuitSprite: {fileID: 21300000, guid: 309996a64d970a24b931105dbe44f790, type: 3}
+--- !u!4 &1348463095
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348463093}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.6500181, y: -1.2208202, z: -12.064869}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1388283092
 GameObject:
   m_ObjectHideFlags: 0
@@ -1388,6 +1434,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inputManager: {fileID: 554422559}
+  itemFactory: {fileID: 1348463094}
   speed: 5
 --- !u!61 &1401892907
 BoxCollider2D:

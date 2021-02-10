@@ -8,14 +8,14 @@ public class PlayerAnimator : MonoBehaviour
 {
     [Serializable] private struct StateNameSet
     {
-        [SerializeField] public string StandLeft;
-        [SerializeField] public string StandRight;
-        [SerializeField] public string StandUp;
-        [SerializeField] public string StandDown;
-        [SerializeField] public string WalkLeft;
-        [SerializeField] public string WalkRight;
-        [SerializeField] public string WalkUp;
-        [SerializeField] public string WalkDown;
+        public string StandLeft;
+        public string StandRight;
+        public string StandUp;
+        public string StandDown;
+        public string WalkLeft;
+        public string WalkRight;
+        public string WalkUp;
+        public string WalkDown;
     }
 
     [SerializeField] private StateNameSet blueSuitStates;
@@ -25,8 +25,6 @@ public class PlayerAnimator : MonoBehaviour
 
     private Animator _animator;
     private Player _player;
-    private Direction _direction;
-    private bool _isWalking;
 
     private void Awake()
     {
@@ -34,8 +32,6 @@ public class PlayerAnimator : MonoBehaviour
         _player = GetComponent<Player>();
         
         _animator.speed = animationSpeed;
-        _direction = _player.Direction;
-        _isWalking = _player.IsWalking;
         ChangeAnimation();
     }
 
@@ -43,33 +39,50 @@ public class PlayerAnimator : MonoBehaviour
     {
         _player.DirectionChanged += OnDirectionChanged;
         _player.IsWalkingChanged += OnIsWalkingChanged;
+        _player.ClothingChanged += OnClothingChanged;
     }
 
     private void OnDisable()
     {
         _player.DirectionChanged -= OnDirectionChanged;
         _player.IsWalkingChanged -= OnIsWalkingChanged;
+        _player.ClothingChanged -= OnClothingChanged;
     }
 
     private void OnDirectionChanged(Direction direction)
     {
-        _direction = direction;
         ChangeAnimation();
     }
 
     private void OnIsWalkingChanged(bool isWalking)
     {
-        _isWalking = isWalking;
+        ChangeAnimation();
+    }
+
+    private void OnClothingChanged(Clothing clothing)
+    {
         ChangeAnimation();
     }
 
     private void ChangeAnimation()
     {
-        StateNameSet set = blueSuitStates;
-        string stateName = string.Empty;
-        if (_isWalking)
+        StateNameSet set = new StateNameSet();
+        switch (_player.Clothing.Type)
         {
-            switch (_direction)
+            case Clothing.ClothingType.BlueSuit:
+                set = blueSuitStates;
+                break;
+            case Clothing.ClothingType.GreenSuit:
+                set = greenSuitStates;
+                break;
+            case Clothing.ClothingType.RedSuit:
+                set = redSuitStates;
+                break;
+        }
+        string stateName = string.Empty;
+        if (_player.IsWalking)
+        {
+            switch (_player.Direction)
             {
                 case Direction.Left:
                     stateName = set.WalkLeft;
@@ -87,7 +100,7 @@ public class PlayerAnimator : MonoBehaviour
         }
         else
         {
-            switch (_direction)
+            switch (_player.Direction)
             {
                 case Direction.Left:
                     stateName = set.StandLeft;
